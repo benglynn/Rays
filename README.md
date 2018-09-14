@@ -1,1 +1,1 @@
-Just Eat rays as code
+The Just Eat ray animation as pure Swift, rather than with animation libraries. This is faster on older iPhones. The easing is more pleasant. This could be foreked to play around with transitions from a splash to initial screen in newer fast-launching prototypes. 
